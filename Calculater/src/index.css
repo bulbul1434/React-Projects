@@ -1,0 +1,37 @@
+.outer{
+  padding: 0 35%;
+}
+
+.container{
+  height: 300px;
+  width: 200px;
+  border: 2px solid black;
+background-color: black;
+border-radius: 20px;
+}
+.input div{
+  width: 97%;
+  height: 50px;
+  border-bottom: 1px solid white;
+  color: white;
+  padding-top: 10px;
+  font-size: x-large;
+  text-align: right;
+}
+.button button{
+  width: 40px;
+  height: 39px;
+  border-radius: 100%;
+  border: 1px solid black;
+  margin:5px ;
+}
+.cal button{
+  background-color: rgb(162, 159, 159);
+}
+.airth{
+  background-color: orange;
+}
+#zero{
+  border-radius: 30px;
+  width:88px
+}

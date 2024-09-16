@@ -1,0 +1,19 @@
+body{
+  margin-top: 80px;
+  padding:0;
+  height: 36em;
+  background-color: rgb(9, 30, 67);
+}
+
+.div{
+  width:300px;
+  color:white;
+  margin:70px 20px 20px 300px ;
+}
+.btn{
+  color: white;
+  background-image: linear-gradient(rgb(8, 57, 164), rgb(12, 20, 51));
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+}
